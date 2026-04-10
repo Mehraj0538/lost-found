@@ -1,0 +1,1 @@
+Battery,E_Waste,General_Recyclable,Non_Recyclable
